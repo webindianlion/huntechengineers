@@ -21,24 +21,11 @@
   </div>
 </div>
   
-  <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-  (function(){
-  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-  s1.async=true;
-  s1.src='https://embed.tawk.to/5fcb6593a1d54c18d8f0afbe/default';
-  s1.charset='UTF-8';
-  s1.setAttribute('crossorigin','*');
-  s0.parentNode.insertBefore(s1,s0);
-  })();
-</script>
-<!--End of Tawk.to Script-->
 
-  <script src="./js/jquery.min.js"></script>
 
-  <script src="./js/particals/particles.js"></script>
-  <script src="./js/particals/app.js"></script>
+  <script src="./js/jquery.min.js"></script>  
+  <script src="https://kit.fontawesome.com/f5194a2a08.js" crossorigin="anonymous"></script>     
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 
   <script src="./js/typewriter/typewriter.js"></script>
   <script src="./js/typewriter/typed.min.js"></script>

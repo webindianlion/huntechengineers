@@ -1,10 +1,10 @@
 
-$(window).on('scroll', function(){
-var  winTop = $(window).scrollTop();
-if (winTop >= 1) {    $('.nav').addClass('fixed').removeClass('top');
-} else if (winTop <= 0) {    $('.nav').addClass('top').removeClass('fixed');    
-}
-});
+// $(window).on('scroll', function(){
+// var  winTop = $(window).scrollTop();
+// if (winTop >= 1) {    $('.nav').addClass('fixed').removeClass('top');
+// } else if (winTop <= 0) {    $('.nav').addClass('top').removeClass('fixed');    
+// }
+// });
 
 $(document).ready(function () {
     var containerr_height = $('.containerr').height();  
@@ -18,7 +18,7 @@ $(function() {
     // dislay or hide the menu if the user resize the window
     $(window).resize(function() {
         var wi = $(window).width();
-        if (wi >= 1024) {
+        if (wi >= 992) {
             $('#topbar-menu').css({'display':'block'});
             $('#topbar-menu-icon i').removeClass('fa-times');
             $('#topbar-menu-icon i').addClass('fa-bars');
