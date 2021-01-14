@@ -1,41 +1,124 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <?php include './common/head.php' ?>
-<body class="about">
-    <?php include './common/topmenu.php' ?>
-    
-    <div class="containerr videoContainer">
-        <div id="particles-js">
-            <canvas class="particles-js-canvas-el" width="659" height="572"></canvas>
-        </div>
-        <div class="videoText ">
-            <h1> We are Trustable in Web Development Industry. </h1>
-        </div>                                  
-    </div>
+<body class="home">
 
-    <section class="container whyWebsite ">
-        <h3 class="ttl">Why to choose us.</h3>
-        <p  class="subTtl">All you need to know the about us</p>
-        <div class="container-fluid">
+   <?php include './common/topmenu.php' ?>
+    <main class="products">      
+
+      <section class="container-fluid">
+        <div class="container">
             <div class="row">
-                <div class="col-12  cardd"> <p> <i class="fas fa-dollar-sign"></i> We are here committed to give you the value of your money. </p> </div>    
-                <div class="col-12  cardd"> <p> <i class="fas fa-fighter-jet"></i>  We are not only best in just our words but also superior in web development play. </p> </div>                
-                <div class="col-12  cardd"> <p> <i class="fas fa-wallet"></i> We also offer all budget websites. </p> </div>
-                <div class="col-12  cardd"> <p> <i class="fas fa-file-powerpoint"></i> Our expertise is to develop custom web pages from PSD. </p> </div>
-                <div class="col-12  cardd"> <p> <i class="fas fa-columns"></i> We run your website on all browser with all devices, which is called fully responsive website. </p> </div>
-                <div class="col-12  cardd"> <p> <i class="fas fa-photo-video"></i> We are also specialized for WordPress websites and Blogs which is called CMS websites. </p> </div>
-                <div class="col-12  cardd"> <p> <i class="fas fa-desktop"></i> We are helping business to get them online from offline. </p> </div>
-                <div class="col-12  cardd"> <p> <i class="fas fa-users"></i> We believe strongly in long term business relation with our “client satisfaction process”. </p> </div>
-                <div class="col-12  cardd"> <p> <i class="fas fa-business-time"></i> We also value for the time of your business. </p> </div>
-                <div class="col-12  cardd"> <p> <i class="fas fa-poll"></i> We not just develop website for you, we actually develop a business tool for you. </p> </div>              
-            
+                <h2 class="text-center ttl">About Us</h2>            
+                <br><br>
+                <article>
+                    <p class="text-start lh-lg"> Since its inception in 2010, HUNTECH ENGEENIERS is engaged in manufacturing, supplying and exporting of Packaging Machinery. We have been manufacturing a qualitative range of products.</P>
+                    
+                    <p class="text-start lh-lg"> Our packaging machines come under four broad categories Fully Automatic VFFS Pouch Filling Machines, Fully Automatic High Speed VFFS Multi Track Machine, Pouch-in-Pouch and Flow Wrap Machines. These machines cater to the need of various industries such as food processing, cosmetic, and soap & detergent packaging. To offer our clients with the products as per their specifications, we also provide customized solutions. </p>
+
+                    <p class="text-start lh-lg"> Our entire range is appreciated for its unique features such as excellent performance, longer service life and reasonable prices. The repeated orders from our clients spread all over the world speak volumes about our utmost quality products.</p>
+                    <hr class="border-bottom border-primary border-1">
+                    <h3 class="text-star">Our Commitment</h3> 
+                
+                    <p class="text-start lh-lg"> We Promise you an experience of total Satisfaction. Pack with Confidence. </p>                    
+                    <hr class="border-bottom border-primary border-1">
+                    <h3 class="text-star">Our Products</h3> 
+                    <ul class="list-group list-group-flush w-50">
+                        <li class="list-group-item"> Form fill & Seal machines for Powders and Liquids </li>
+                        <li class="list-group-item"> Filling and packing machines </li>
+                        <li class="list-group-item"> Collar type machines </li>
+                        <li class="list-group-item"> Zipper Pouch Horizontal machines </li>
+                        <li class="list-group-item"> Gusset Pouch machines </li>
+                    </ul>
+                    
+                </article>
+                                            
             </div>
-        </div>
-    </section>
+          </div>    
+      </section>
+      
+      <section class="container-flude pouch">
+            <div class="container">
+                <div class="row">                
+                        <h2 class="text-center">Pouch Formats</h2>
+                        <div id="carouselExampleDark1" class="carousel carousel-dark slide" data-bs-ride="carousel"> 
+                            <div class="carousel-inner">
+                                <div class="carousel-item active" >
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-1.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> 4 Line Seal </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-2.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> 3 Side Seal </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-3.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> 4 Side Seal </figcaption>
+                                    </figure>                                
+                                </div>
+                                <div class="carousel-item" >
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-4.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> 4 Side Seal With V Notch </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-5.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Center Seal Pouch Format </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-6.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Center Seal Pouch For Oil </figcaption>
+                                    </figure>                                
+                                </div>
+                                <div class="carousel-item" >
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-7.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Center Seal With Saration </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-8.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Contour Pack </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-9.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Cspp Liquid </figcaption>
+                                    </figure>                                
+                                </div>
+                                <div class="carousel-item" >
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-10.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Gusset Pouch </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-11.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Penta Seal </figcaption>
+                                    </figure>
+                                    <figure class="figure imgCont">
+                                        <img src="./images/pouches/pouch-format-12.jpg" class="img-fluid d-block" alt="...">
+                                        <figcaption class="figure-caption  card-footer text-center"> Zipper Pouch </figcaption>
+                                    </figure>                                
+                                </div>
+                                
+                                
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselExampleDark1" role="button" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleDark1" role="button" data-bs-slide="next">
+                                <span class="visually-hidden">Next</span>
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            </a>                    
+                        </div>                              
+                    </div>
+            </div>
+            
+        </section> 
 
-    <?php include './common/footer.php' ?>
+</main>  
 
-
-
+    <?php  include './common/footer.php' ?>
+    
 </body>
 </html>

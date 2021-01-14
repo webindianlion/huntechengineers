@@ -4,6 +4,53 @@
   font-family: "Roboto", sans-serif;
 }
 
+main {
+  margin-top: 100px;
+}
+main section {
+  padding: 50px 0;
+  border-bottom: 1px solid #c6c6c6;
+}
+main section h2 {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+main section article h6 {
+  font-size: 18px;
+  margin-bottom: 50px;
+}
+main section article p {
+  line-height: 2;
+}
+main .parallax {
+  background-image: url("../images/parallax.jpg");
+  height: 550px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  position: relative;
+}
+main .parallax:before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: #141526;
+  display: block;
+  opacity: 0.9;
+}
+main .parallax > div {
+  position: absolute;
+  color: #fff;
+  top: 50px;
+  left: calc(50% - 400px);
+  width: 800px;
+}
+main .parallax > div p {
+  text-align: justify;
+}
+
 .contactInfo {
   color: #fff;
   margin: 0;
@@ -64,14 +111,6 @@ header .row img {
   height: 500px;
 }
 
-.background {
-  position: absolute;
-  display: block;
-  top: 0;
-  left: 0;
-  z-index: 0;
-}
-
 .footerr {
   width: 100%;
   margin: 0 auto;
@@ -113,6 +152,47 @@ header .row img {
   text-decoration: underline;
 }
 
+.products section {
+  margin: 50px auto;
+}
+.products section .ttl {
+  margin-bottom: 50px;
+}
+
+.contactMain .ttl {
+  margin-bottom: 30px;
+}
+.contactMain textarea {
+  width: 100%;
+  padding: 10px;
+  border-color: #ced4da;
+  border-radius: 3px;
+}
+.contactMain .gmap {
+  width: 100%;
+  border: 1px solid #ced4da;
+}
+
+.ablue {
+  background-color: aliceblue;
+}
+
+figure img {
+  height: 300px;
+}
+
+table, tr, td {
+  border: 1px solid #ced4da;
+}
+
+td {
+  padding: 0px 10px;
+}
+
+td:first-of-type {
+  font-weight: bold;
+}
+
 .carousel {
   width: 100%;
 }
@@ -120,7 +200,13 @@ header .row img {
 #carouselExampleDark .carousel-item, #carouselExampleDark1 .carousel-item {
   color: #000;
   text-align: center;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
+}
+
+.carousel-indicators {
+  bottom: initial;
+  top: 0;
+  position: relative;
 }
 
 .carousel-indicators li {
