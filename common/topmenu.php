@@ -1,3 +1,9 @@
+<div class='progress' id="progress_div">
+    <div class='bar' id='bar1'></div>
+    <div class='percent' id='percent1'></div>
+</div>
+
+  
 <nav class="topMenu nav"> 
     <a class="logoText" href="index.php"><img src="./images/logo.jpg" alt="Huntechengineers Logo"></a> 
     <a href="#" id="topbar-menu-icon" class="menu-icon"><i class="fas fa-bars"></i> </a>
