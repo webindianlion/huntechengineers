@@ -1,7 +1,7 @@
-<div class='progress' id="progress_div">
+<!-- <div class='progress' id="progress_div">
     <div class='bar' id='bar1'></div>
     <div class='percent' id='percent1'></div>
-</div>
+</div> -->
 
   
 <nav class="topMenu nav"> 

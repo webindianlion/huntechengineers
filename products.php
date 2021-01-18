@@ -10,7 +10,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-801</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -83,7 +83,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">                
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                
                     <h3 class="text-center"> Chips, Dry Fruits, Namkeen, Pasta, Seeds, Soyabari etc. </h3>            
                     <figure>
                         <img src="./images/products/801.png" alt="HUN 801" >
@@ -99,7 +99,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-802</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -172,7 +172,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">                
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                
                     <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan, Powder etc. </h3>
                     <figure>
                         <img src="./images/products/802.png" alt="HUN 802" >
@@ -188,7 +188,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-803</h2>
-                <div class="col-md-6" data-aos="fade-right"> 
+                <div class="col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -250,7 +250,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Fryums, Kurkura, Soyabari, Pulses, Namkeen etc. </h3>
                     <figure>
                         <img src="./images/products/803.png" alt="HUN 803" >
@@ -266,7 +266,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-804</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -339,7 +339,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan etc. </h3>
                     <figure>
                         <img src="./images/products/804.png" alt="HUN 804" >
@@ -355,7 +355,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-805</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -413,7 +413,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Fryums, Kurkura, Soyabari, Pulses, Namkeen etc. </h3>
                     <figure>
                         <img src="./images/products/805.png" alt="HUN 805" >
@@ -430,7 +430,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-806</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -488,7 +488,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Tea, Coffee, Mouth Freshner, Detergent all Granules etc. </h3>
                     <figure>
                         <img src="./images/products/806.png" alt="HUN 806" >
@@ -504,7 +504,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-807</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -562,7 +562,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Gutkha, Spices etc. </h3>
                     <figure>
                         <img src="./images/products/807.png" alt="HUN 807" >
@@ -579,7 +579,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-808</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -637,7 +637,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Tomato Ketchup, Hair Oil, Shampoo, Liquid etc. </h3>
                     <figure>
                         <img src="./images/products/808.png" alt="HUN 808" >
@@ -653,7 +653,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-809</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -726,7 +726,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Tea, Coffee, Mouth Freshner, Detergent all Granules etc. </h3>
                     <figure>
                         <img src="./images/products/809.png" alt="HUN 809" >
@@ -743,7 +743,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-810</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Product application: </td> 
@@ -817,7 +817,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Biscuit, Bearing, Cake, Scotch Bar, Tray Pack Items etc. </h3>
                     <figure>
                         <img src="./images/products/810.png" alt="HUN 810" >
@@ -834,7 +834,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-811</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Pouch Width: </td> 
@@ -891,7 +891,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Filter Khaini, Naswar etc. </h3>
                     <figure>
                         <img src="./images/products/811.png" alt="HUN 811" >
@@ -909,7 +909,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-812</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Description </td> 
@@ -963,7 +963,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Tomato Ketchup, Hair Oil, Shampoo, Liquid etc. </h3>
                     <figure>
                         <img src="./images/products/812.png" alt="HUN 812" >
@@ -981,7 +981,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-813</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> 
@@ -1016,7 +1016,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Tea, Coffee Powder etc. </h3>
                     <figure>
                         <img src="./images/products/813.png" alt="HUN 813" >
@@ -1034,7 +1034,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-814</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> 
@@ -1081,7 +1081,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Pouch Sealing </h3>
                     <figure>
                         <img src="./images/products/814.png" alt="HUN 814" >
@@ -1099,7 +1099,7 @@
         <div class="container">
             <div class="row">
                 <h2 class="text-center ttl">HUN-815</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
+                <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
                         <table>
                             <tr> <td> Filling Speed: </td> 
@@ -1118,7 +1118,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
                     <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan etc. </h3>
                     <figure>
                         <img src="./images/products/815.png" alt="HUN 815" >
@@ -1128,96 +1128,6 @@
             </div>
           </div>    
       </section>
-
-
-
-      <!-- 816 Starts -->
-<!-- <section class="container-fluid">
-        <div class="container">
-            <div class="row">
-                <h2 class="text-center ttl">HUN-816</h2>
-                <div class=" col-md-6" data-aos="fade-right"> 
-                    <article>  
-                        <table>
-                            <tr> <td> Product application: </td> 
-                                 <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Sealing type: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Packing speed: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Filling system: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Packaging film: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Maximum film roll width: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> All product contact parts: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Main motor: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Electrical power: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Machines weight: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Film Draw Mechanism: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Machine Body: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Cylinders: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Compressed air require: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Multihead weigher: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> AC drive/PLC/Micro view: </td> 
-                                <td>  </td> 
-                            </tr>
-                            <tr> 
-                                <td> Quick speed control: </td> 
-                                <td>  </td> 
-                            </tr>                                                      
-                        </table>
-                    </article>                
-                </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="fade-left">
-                    <figure>
-                        <img src="./images/products/801.png" alt="HUN 816" >
-                        <figcaption class="text-center">Fig.1 - HUN 812</figcaption>
-                    </figure>
-                </div>
-            </div>
-          </div>    
-      </section> -->
 
     </main>  
 

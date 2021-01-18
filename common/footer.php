@@ -40,5 +40,6 @@
   </script>
 
   <script src="https://www.google.com/recaptcha/api.js"></script>
+  <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script>
 
   <script src="./js/main.js"></script>

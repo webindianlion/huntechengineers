@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
+  word-break: break-all;
 }
 
 main {
@@ -24,7 +25,6 @@ main section article p {
 }
 main .parallax {
   background-image: url("../images/parallax.jpg");
-  height: 550px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -44,11 +44,13 @@ main .parallax > div {
   position: absolute;
   color: #fff;
   top: 50px;
-  left: calc(50% - 400px);
-  width: 800px;
 }
 main .parallax > div p {
   text-align: justify;
+  color: #fff;
+}
+main .parallax > div h2, main .parallax > div h6 {
+  color: #fff;
 }
 
 .contactInfo {
@@ -137,6 +139,7 @@ header .row img {
 }
 .footerr .copywrite {
   min-width: 120px;
+  color: #fff;
 }
 .footerr .quickLinks {
   width: 250px;
@@ -182,15 +185,13 @@ header .row img {
   z-index: 9999;
   background-color: #ffffff5b;
 }
-
-.bar {
+.progress .bar {
   background-color: #0d6efd;
   width: 0%;
   height: 2px;
   border-radius: 3px;
 }
-
-.percent {
+.progress .percent {
   position: absolute;
   display: inline-block;
   top: 3px;
@@ -203,6 +204,19 @@ header .row img {
 
 figure img {
   height: 300px;
+}
+
+.owl-item {
+  text-align: center;
+}
+
+.banner {
+  background-image: url(../images/logo2.png);
+  background-position: 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 0;
+  position: relative;
 }
 
 table, tr, td {
@@ -232,7 +246,6 @@ td:first-of-type {
   top: 0;
   position: relative;
 }
-
 .carousel-indicators li {
   background-color: #000;
 }
@@ -352,6 +365,26 @@ ul.topbarMenu {
   list-style: none;
 }
 
+.pouches .owl-nav {
+  position: absolute;
+  width: 100%;
+  top: 120px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 50px;
+  line-height: 0.5;
+}
+
+.partners .owl-nav {
+  position: absolute;
+  width: 100%;
+  top: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 50px;
+  line-height: 0.5;
+}
+
 @media only screen and (min-width: 992px) {
   ul.topbarMenu {
     display: block;
@@ -383,6 +416,59 @@ ul.topbarMenu {
     display: block;
     padding: 10px 0;
     text-align: center;
+  }
+}
+@media only screen and (max-width: 768px) {
+  main .parallax > div {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .footerr > div {
+    flex-direction: column;
+  }
+
+  .footerr .quickLinks {
+    margin-left: 0;
+  }
+
+  .footerr ul {
+    padding: 0;
+  }
+
+  .footerr {
+    padding: 30px;
+  }
+
+  .hun > .row {
+    margin: 0;
+  }
+
+  .products section {
+    margin: 30px auto;
+  }
+
+  main section {
+    padding: 30px 0;
+  }
+}
+@media only screen and (max-width: 480px) {
+  main .parallax > div {
+    top: 30px;
+  }
+
+  main section h2 {
+    font-size: 30px;
+    word-break: break-all;
+  }
+
+  main section article h6 {
+    margin-bottom: 30px;
+  }
+
+  td {
+    font-size: 14px;
+    line-height: 1.2;
   }
 }
 

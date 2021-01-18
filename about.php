@@ -36,87 +36,69 @@
             </div>
           </div>    
       </section>
-      
+
+
       <section class="container-flude pouch">
-            <div class="container">
-                <div class="row">                
-                        <h2 class="text-center">Pouch Formats</h2>
-                        <div id="carouselExampleDark1" class="carousel carousel-dark slide" data-bs-ride="carousel"> 
-                            <div class="carousel-inner">
-                                <div class="carousel-item active" >
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-1.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> 4 Line Seal </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-2.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> 3 Side Seal </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-3.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> 4 Side Seal </figcaption>
-                                    </figure>                                
-                                </div>
-                                <div class="carousel-item" >
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-4.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> 4 Side Seal With V Notch </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-5.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Center Seal Pouch Format </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-6.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Center Seal Pouch For Oil </figcaption>
-                                    </figure>                                
-                                </div>
-                                <div class="carousel-item" >
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-7.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Center Seal With Saration </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-8.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Contour Pack </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-9.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Cspp Liquid </figcaption>
-                                    </figure>                                
-                                </div>
-                                <div class="carousel-item" >
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-10.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Gusset Pouch </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-11.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Penta Seal </figcaption>
-                                    </figure>
-                                    <figure class="figure imgCont">
-                                        <img src="./images/pouches/pouch-format-12.jpg" class="img-fluid d-block" alt="...">
-                                        <figcaption class="figure-caption  card-footer text-center"> Zipper Pouch </figcaption>
-                                    </figure>                                
-                                </div>
-                                
-                                
-                            </div>
-                            <a class="carousel-control-prev" href="#carouselExampleDark1" role="button" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </a>
-                            <a class="carousel-control-next" href="#carouselExampleDark1" role="button" data-bs-slide="next">
-                                <span class="visually-hidden">Next</span>
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            </a>                    
-                        </div>                              
+            <div class="container-lg">
+                <div class="row">
+                    <!-- <div col-lg-12></div>                 -->
+                        <h2 class="text-center">Pouch Formats</h2>                        
+                        <div class="owl-carousel owl-theme pouches">
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-1.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> 4 Line Seal </figcaption>
+                            </figure>
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-2.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> 3 Side Seal </figcaption>
+                            </figure>
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-3.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> 4 Side Seal </figcaption>
+                            </figure>
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-4.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> 4 Side Seal With V Notch </figcaption>
+                            </figure>
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-5.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Center Seal Pouch Format </figcaption>
+                            </figure>
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-6.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Center Seal Pouch For Oil </figcaption>
+                            </figure>  
+                            <figure class="figure imgCont align-middle">
+                                <img src="./images/pouches/pouch-format-7.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Center Seal With Saration </figcaption>
+                            </figure>
+                            <figure class="figure imgCont align-middle">
+                                <img src="./images/pouches/pouch-format-8.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Contour Pack </figcaption>
+                            </figure>
+                            <figure class="figure imgCont align-middle">
+                                <img src="./images/pouches/pouch-format-9.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Cspp Liquid </figcaption>
+                            </figure>  
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-10.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Gusset Pouch </figcaption>
+                            </figure>
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-11.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Penta Seal </figcaption>
+                            </figure>
+                            <figure class="figure imgCont">
+                                <img src="./images/pouches/pouch-format-12.jpg" class="img-fluid d-block" alt="...">
+                                <figcaption class="figure-caption  card-footer text-center"> Zipper Pouch </figcaption>
+                            </figure>          
+                        </div>
                     </div>
             </div>
             
-        </section> 
+        </section>
 
-</main>  
+    </main>  
 
     <?php  include './common/footer.php' ?>
     

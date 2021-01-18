@@ -7,14 +7,27 @@
 // });
 
 $(document).ready(function () {
+  var wi = $(window).width();
+
     var containerr_height = $('.containerr').height();  
     var typewriter_height = $(".containerr .videoText").height();
     $(".containerr .videoText").css("top", containerr_height / 2 - typewriter_height / 2);
+
+    if (wi >= 992) {
+      $(".logoText > img").attr("src", "./images/logo.jpg");      
+    }
+    else if(wi <= 991) {
+      $(".logoText > img").attr("src", "./images/logo.png");
+      $(".logoText > img").css({"width":"71px", "background-color":"#fff"});
+    }
+
+    var hhh = $("main .parallax > div h2").outerHeight(true) + $("main .parallax > div h6").outerHeight(true) + $("main .parallax > div p").outerHeight(true) ;
+    var parallaxHeight = $(".parallax").outerHeight() ;
+    parallaxHeight = hhh + 100;
+    $(".parallax").css("height", parallaxHeight );    
 });
 
 $(function() {
-  
-
     // dislay or hide the menu if the user resize the window
     $(window).resize(function() {
         var wi = $(window).width();
@@ -22,12 +35,21 @@ $(function() {
             $('#topbar-menu').css({'display':'block'});
             $('#topbar-menu-icon i').removeClass('fa-times');
             $('#topbar-menu-icon i').addClass('fa-bars');
+            $(".logoText > img").attr("src", "./images/logo.jpg");
+            $(".logoText > img").css({"width":"100%"});
         }
-        else {
+        else if(wi <= 991) {
             $('#topbar-menu').css({'display':'none'});            
             $('#topbar-menu-icon i').removeClass('fa-times');
             $('#topbar-menu-icon i').addClass('fa-bars');
+            $(".logoText > img").attr("src", "./images/logo.png");
+            $(".logoText > img").css({"width":"71px", "background-color":"#fff"});
         }
+
+        var hhh = $("main .parallax > div h2").outerHeight(true) + $("main .parallax > div h6").outerHeight(true) + $("main .parallax > div p").outerHeight(true) ;
+        var parallaxHeight = $(".parallax").outerHeight() ;
+        parallaxHeight = hhh + 100  - 100;
+        $(".parallax").css("height", parallaxHeight + 100);
     });
     
     // Change the menu icon, and show or hide the menu
@@ -80,3 +102,67 @@ function set_ele(set_element) {
   check_element(set_element);
 }
 // progress bar script ENDS
+
+
+
+  $(document).ready(function() {
+    $('.pouches').owlCarousel({
+      loop: true,
+      margin: 10,
+      center: true,
+      responsiveClass: true,
+      responsive: {
+        0: {
+          items: 1,
+          nav: true,
+          dots: false
+        },
+        768: {
+          items: 3,
+          nav: false
+        }
+      }
+    });
+
+
+    $('.partners').owlCarousel({
+      loop: true,
+      margin: 10,
+      center: true,
+      responsiveClass: true,
+      responsive: {
+        0: {
+          items: 1,
+          nav: true,
+          dots: false
+        },
+        480: {
+          items: 3,
+          nav: false
+        },
+        992: {
+          items: 5,
+          nav: false
+        }
+      }
+    });
+
+    $('.banner').owlCarousel({
+      animateIn: 'fadeInDown',
+      animateOut: 'fadeOutDown',
+      loop: true,
+      margin: 10,
+      center: true,
+      autoplay: true,      
+      responsiveClass: true,
+      responsive: {
+        0: {
+          items: 1,
+          nav: false,
+          dots: false
+        }
+      }
+    });
+  });
+  
+  
