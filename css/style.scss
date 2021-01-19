@@ -359,6 +359,14 @@ ul.topbarMenu {
     line-height: 0.5;
 }
 
+
+.figure {
+    border: 1px solid rgba(0,0,0,.125);
+}
+.card-footer {
+    background-color: rgb(255 255 255);
+ }
+
 @media only screen and (min-width: 992px) {
  ul.topbarMenu {
         display: block;
