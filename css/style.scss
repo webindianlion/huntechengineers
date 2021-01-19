@@ -242,11 +242,10 @@ figure {
 .owl-item {
     text-align: center;
 }
-.banner {
+body {
     background-image: url(../images/logo2.png);
-    background-position: 0;
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-position: 50% 3%;
+    background-size: 10px;
     padding: 0;
     position: relative;
 }
