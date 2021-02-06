@@ -184,7 +184,9 @@ header {
     section {
         margin: 50px auto;
         
-        .ttl{margin-bottom: 50px;}
+        .ttl{margin-bottom: 50px; font-size: 30px;}
+
+        article > h3 { font-size: 20px;}
     }
 }
 .contactMain {
@@ -231,7 +233,7 @@ header {
 
 .ablue {background-color: aliceblue;}
 figure {
-    img { height: 300px;}
+    img { height: 500px;}
 }
 
 // .pouch {

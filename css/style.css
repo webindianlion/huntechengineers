@@ -159,6 +159,10 @@ header .row img {
 }
 .products section .ttl {
   margin-bottom: 50px;
+  font-size: 30px;
+}
+.products section article > h3 {
+  font-size: 20px;
 }
 
 .contactMain .ttl {
@@ -202,7 +206,7 @@ header .row img {
 }
 
 figure img {
-  height: 300px;
+  height: 500px;
 }
 
 .owl-item {

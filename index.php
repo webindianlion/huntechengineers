@@ -97,7 +97,7 @@
         
         <!-- <section class="parallax parallax1"> </section> -->
 
-        <section class="container-flude">
+        <!-- <section class="container-flude">
             <div class="container">
                 <div class="row">
                     <h2 class="text-center">Companies Who Trust us</h2>                                
@@ -113,10 +113,8 @@
                         <img src="./images/partner1.jpg" class="" alt="...">
                     </div>
                 </div>
-            </div>
-        
-            
-        </section>
+            </div>                    
+        </section> -->
     </main>
     <?php  include './common/footer.php' ?>
     

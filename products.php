@@ -9,9 +9,10 @@
       <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-801</h2>
+                <h2 class="text-center ttl">HUN-801 Multihead Weighing Packaging Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Chips, Dry Fruits, Namkeen, Pasta, Seeds, Soyabari etc. </h3>  
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 10gm to 1kg </td> 
@@ -83,8 +84,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                
-                    <h3 class="text-center"> Chips, Dry Fruits, Namkeen, Pasta, Seeds, Soyabari etc. </h3>            
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                                              
                     <figure>
                         <img src="./images/products/801.png" alt="HUN 801" >
                         <figcaption class="text-center">Fig.1 - HUN 801</figcaption>
@@ -98,9 +98,10 @@
       <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-802</h2>
+                <h2 class="text-center ttl">HUN-802 Coller Type Auger Filler Packaging Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
-                    <article>  
+                    <article> 
+                    <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan, Powder etc. </h3> 
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 10gm to 10kg </td> 
@@ -172,8 +173,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                
-                    <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan, Powder etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                                    
                     <figure>
                         <img src="./images/products/802.png" alt="HUN 802" >
                         <figcaption class="text-center">Fig.1 - HUN 802</figcaption>
@@ -187,9 +187,10 @@
       <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-803</h2>
+                <h2 class="text-center ttl">HUN-803 Coller Type Cup Filler Packaging Machine</h2>
                 <div class="col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Fryums, Kurkura, Soyabari, Pulses, Namkeen etc. </h3>
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> Any item which can run on surface </td> 
@@ -250,8 +251,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Fryums, Kurkura, Soyabari, Pulses, Namkeen etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                    
                     <figure>
                         <img src="./images/products/803.png" alt="HUN 803" >
                         <figcaption class="text-center">Fig.1 - HUN 803</figcaption>
@@ -265,9 +265,10 @@
     <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-804</h2>
+                <h2 class="text-center ttl">HUN-804 Mini Coller Type Cup Filler Packaging Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan etc. </h3>
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 10gm to 100gm </td> 
@@ -339,8 +340,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                    
                     <figure>
                         <img src="./images/products/804.png" alt="HUN 804" >
                         <figcaption class="text-center">Fig.1 - HUN 804</figcaption>
@@ -354,9 +354,10 @@
 <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-805</h2>
+                <h2 class="text-center ttl">HUN-805 Mini Coller Type Cup Filler Packaging Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Fryums, Kurkura, Soyabari, Pulses, Namkeen etc. </h3>
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> Any item which can run on surface </td> 
@@ -413,8 +414,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Fryums, Kurkura, Soyabari, Pulses, Namkeen etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                    
                     <figure>
                         <img src="./images/products/805.png" alt="HUN 805" >
                         <figcaption class="text-center">Fig.1 - HUN 805</figcaption>
@@ -429,9 +429,10 @@
 <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-806</h2>
+                <h2 class="text-center ttl">HUN-806 FFS Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Tea, Coffee, Mouth Freshner, Detergent all Granules etc. </h3>
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 2gm to 200gm </td> 
@@ -488,8 +489,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Tea, Coffee, Mouth Freshner, Detergent all Granules etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                    
                     <figure>
                         <img src="./images/products/806.png" alt="HUN 806" >
                         <figcaption class="text-center">Fig.1 - HUN 806</figcaption>
@@ -503,9 +503,10 @@
 <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-807</h2>
+                <h2 class="text-center ttl">HUN-807 FFS High Speed Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Gutkha, Spices etc. </h3>
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 2gm to 100gm </td> 
@@ -562,8 +563,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Gutkha, Spices etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                    
                     <figure>
                         <img src="./images/products/807.png" alt="HUN 807" >
                         <figcaption class="text-center">Fig.1 - HUN 807</figcaption>
@@ -575,12 +575,13 @@
 
       <!-- 808 Starts -->
 
-<section class="container-fluid">
+    <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-808</h2>
+                <h2 class="text-center ttl">HUN-808 FFS Liquid Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Tomato Ketchup, Hair Oil, Shampoo, Liquid etc. </h3>
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 2ml to 100ml </td> 
@@ -637,8 +638,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Tomato Ketchup, Hair Oil, Shampoo, Liquid etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                    
                     <figure>
                         <img src="./images/products/808.png" alt="HUN 808" >
                         <figcaption class="text-center">Fig.1 - HUN 808</figcaption>
@@ -649,12 +649,14 @@
       </section>
 
       <!-- 809 Starts -->
-<section class="container-fluid">
+
+      <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-809</h2>
+                <h2 class="text-center ttl">HUN-809 Half Pneumatic Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
-                    <article>  
+                    <article>
+                    <h3 class="text-center"> Tea, Coffee, Mouth Freshner, Detergent all Granules etc. </h3>  
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 2gm to 300gm </td> 
@@ -727,7 +729,6 @@
                     </article>                
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Tea, Coffee, Mouth Freshner, Detergent all Granules etc. </h3>
                     <figure>
                         <img src="./images/products/809.png" alt="HUN 809" >
                         <figcaption class="text-center">Fig.1 - HUN 809</figcaption>
@@ -739,12 +740,14 @@
 
 
       <!-- 810 Starts -->
-<section class="container-fluid">
+
+      <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-810</h2>
+                <h2 class="text-center ttl">HUN-810 Horizontal Flow Wrape Packaging Machine </h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Biscuit, Bearing, Cake, Scotch Bar, Tray Pack Items etc. </h3>
                         <table>
                             <tr> <td> Product application: </td> 
                                  <td> 100gm to 1kg </td> 
@@ -818,7 +821,6 @@
                     </article>                
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Biscuit, Bearing, Cake, Scotch Bar, Tray Pack Items etc. </h3>
                     <figure>
                         <img src="./images/products/810.png" alt="HUN 810" >
                         <figcaption class="text-center">Fig.1 - HUN 810</figcaption>
@@ -830,12 +832,13 @@
 
 
       <!-- 811 Starts -->
-<section class="container-fluid">
+    <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-811</h2>
+                <h2 class="text-center ttl">HUN-811 Filter Khaini Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Filter Khaini, Naswar etc. </h3>
                         <table>
                             <tr> <td> Pouch Width: </td> 
                                  <td> 12 mm to 18 mm </td> 
@@ -892,7 +895,6 @@
                     </article>                
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Filter Khaini, Naswar etc. </h3>
                     <figure>
                         <img src="./images/products/811.png" alt="HUN 811" >
                         <figcaption class="text-center">Fig.1 - HUN 811</figcaption>
@@ -905,12 +907,13 @@
 
 
       <!-- 812 Starts -->
-<section class="container-fluid">
+    <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-812</h2>
+                <h2 class="text-center ttl">HUN-812 Multi Track Liquid Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
-                    <article>  
+                    <article>
+                    <h3 class="text-center"> Tomato Ketchup, Hair Oil, Shampoo, Liquid etc. </h3>  
                         <table>
                             <tr> <td> Description </td> 
                                  <td> Model HUN 812.1 </td> 
@@ -964,7 +967,6 @@
                     </article>                
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Tomato Ketchup, Hair Oil, Shampoo, Liquid etc. </h3>
                     <figure>
                         <img src="./images/products/812.png" alt="HUN 812" >
                         <figcaption class="text-center">Fig.1 - HUN 812</figcaption>
@@ -977,12 +979,13 @@
 
 
       <!-- 813 Starts -->
-<section class="container-fluid">
+    <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-813</h2>
+                <h2 class="text-center ttl">HUN-813 Tea Bag Packaging Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Tea, Coffee Powder etc. </h3>
                         <table>
                             <tr> 
                                 <td> Filling Range: </td> 
@@ -1017,7 +1020,6 @@
                     </article>                
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Tea, Coffee Powder etc. </h3>
                     <figure>
                         <img src="./images/products/813.png" alt="HUN 813" >
                         <figcaption class="text-center">Fig.1 - HUN 813</figcaption>
@@ -1030,12 +1032,13 @@
 
 
       <!-- 814 Starts -->
-<section class="container-fluid">
+    <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-814</h2>
+                <h2 class="text-center ttl">HUN-814 Bend Sealer Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Pouch Sealing </h3>
                         <table>
                             <tr> 
                                 <td> Packing Speed: </td> 
@@ -1082,7 +1085,6 @@
                     </article>                
                 </div>
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Pouch Sealing </h3>
                     <figure>
                         <img src="./images/products/814.png" alt="HUN 814" >
                         <figcaption class="text-center">Fig.1 - HUN 814</figcaption>
@@ -1098,9 +1100,10 @@
     <section class="container-fluid">
         <div class="container">
             <div class="row">
-                <h2 class="text-center ttl">HUN-815</h2>
+                <h2 class="text-center ttl">HUN-815 Manual Auger Filler Machine</h2>
                 <div class=" col-md-6" data-aos="zoom-in"> 
                     <article>  
+                    <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan etc. </h3>
                         <table>
                             <tr> <td> Filling Speed: </td> 
                                  <td> 2000-2500fills per hour (Depending upon the Size) </td> 
@@ -1118,8 +1121,7 @@
                         </table>
                     </article>                
                 </div>
-                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">
-                    <h3 class="text-center"> Spices, Mehandi, Gulal, Atta, Besan etc. </h3>
+                <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-out">                    
                     <figure>
                         <img src="./images/products/815.png" alt="HUN 815" >
                         <figcaption class="text-center">Fig.1 - HUN 815</figcaption>
