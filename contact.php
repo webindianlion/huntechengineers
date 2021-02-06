@@ -30,7 +30,7 @@
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </form> <br>
                 <h3 class="whatapp">
-                    <a href="https://api.whatsapp.com/send?phone=919810272223text=welcome" class="text-decoration-none btn btn-primary  w-100 text-center"  role="button">                
+                    <a href="https://api.whatsapp.com/send?phone=919911796297text=welcome" class="text-decoration-none btn btn-primary  w-100 text-center"  role="button">                
                         Chat with Us <img src="./images/whatsapp.svg" width="30px" class="ms-2" alt="">                     
                     </a>                
                 </h3>
@@ -42,16 +42,28 @@
                     <p>Plot No. 2386, Sant Nagar, Opp. Railway Road, Faridabad, Haryana-121002, info@huntechengineers.com, huntechengineers@gmail.com</p>
                 </div>
                 <div class="col-sm-12">
-                    <h6>Nirbhaya Gupta</h6>
-                    <p>9911796296</p>
+                    <h6>Ummed Singh</h6>
+                    <p>
+                        9911796296
+                        <a href="https://api.whatsapp.com/send?phone=919911796296text=welcome" class="text-decoration-none text-center ms-5"  role="button">                
+                        Chat with Me <img src="./images/whatsapp.svg" width="30px" class="ms-2" > </a> 
+                    </p>
                 </div>
                 <div class="col-sm-12">
-                    <h6>Nirbhaya Gupta</h6>
-                    <p>9911796297</p>
+                    <h6>Nirbhay Gupta</h6>
+                    <p>
+                        9911796297
+                        <a href="https://api.whatsapp.com/send?phone=919911796297text=welcome" class="text-decoration-none text-center ms-5"  role="button">                
+                        Chat with Me <img src="./images/whatsapp.svg" width="30px" class="ms-2" > </a>
+                    </p>
                 </div>
                 <div class="col-sm-12">
-                    <h6>Nirbhaya Gupta</h6>
-                    <p>9911796298</p>
+                    <h6>Satish Panwar</h6>
+                    <p>
+                        9911796298
+                        <a href="https://api.whatsapp.com/send?phone=919911796298text=welcome" class="text-decoration-none text-center ms-5"  role="button">                
+                        Chat with Me <img src="./images/whatsapp.svg" width="30px" class="ms-2" > </a>
+                    </p>
                 </div>
             </div>
         

@@ -75,7 +75,6 @@ main .parallax > div h2, main .parallax > div h6 {
   min-height: 70px;
 }
 .topMenu .logoText {
-  width: 200px;
   position: absolute;
   top: 0;
   z-index: 3;
@@ -357,7 +356,7 @@ td:first-of-type {
 
 ul.topbarMenu > li {
   display: inline-block;
-  padding: 0 10px;
+  padding: 0 6px;
 }
 
 ul.topbarMenu {
@@ -457,6 +456,20 @@ ul.topbarMenu {
 
   main section {
     padding: 30px 0;
+  }
+
+  .menu-icon {
+    right: 10px;
+  }
+
+  .topMenu {
+    padding: 20px 10px;
+  }
+}
+@media only screen and (max-width: 530px) {
+  .topMenu .logoText img {
+    width: 270px;
+    margin-top: 14px;
   }
 }
 @media only screen and (max-width: 480px) {

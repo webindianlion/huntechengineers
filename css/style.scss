@@ -87,7 +87,7 @@ main {
     min-height: 70px;           
 
     .logoText {
-        width: 200px;
+        // width: 478px;
         position: absolute;
         top: 0;
         z-index: 3;
@@ -332,7 +332,7 @@ td:first-of-type { font-weight: bold;}
 }
 ul.topbarMenu > li {
     display: inline-block;
-    padding: 0 10px;
+    padding: 0 6px;
   }
   
 ul.topbarMenu {
@@ -418,8 +418,13 @@ ul.topbarMenu {
     .hun > .row { margin: 0; } 
     .products section { margin: 30px auto; }
     main section { padding: 30px 0; }
+    .menu-icon { right: 10px; }
+    .topMenu { padding: 20px 10px; }
 }
 
+@media only screen and (max-width: 530px) { 
+    .topMenu .logoText img { width: 270px; margin-top: 14px; }
+}
 @media only screen and (max-width: 480px) { 
     
     main .parallax > div {
@@ -430,6 +435,6 @@ ul.topbarMenu {
         word-break: break-all;
     }
     main section article h6 { margin-bottom: 30px; }
-    td { font-size: 14px; line-height: 1.2; }
+    td { font-size: 14px; line-height: 1.2; }    
 
 }

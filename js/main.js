@@ -13,13 +13,13 @@ $(document).ready(function () {
     var typewriter_height = $(".containerr .videoText").height();
     $(".containerr .videoText").css("top", containerr_height / 2 - typewriter_height / 2);
 
-    if (wi >= 992) {
-      $(".logoText > img").attr("src", "./images/logo.jpg");      
-    }
-    else if(wi <= 991) {
-      $(".logoText > img").attr("src", "./images/logo.png");
-      $(".logoText > img").css({"width":"71px", "background-color":"#fff"});
-    }
+    // if (wi >= 992) {
+    //   $(".logoText > img").attr("src", "./images/logo.jpg");      
+    // }
+    // else if(wi <= 991) {
+    //   $(".logoText > img").attr("src", "./images/logo.png");
+    //   $(".logoText > img").css({"width":"71px", "background-color":"#fff"});
+    // }
 
     var hhh = $("main .parallax > div h2").outerHeight(true) + $("main .parallax > div h6").outerHeight(true) + $("main .parallax > div p").outerHeight(true) ;
     var parallaxHeight = $(".parallax").outerHeight() ;
@@ -35,15 +35,15 @@ $(function() {
             $('#topbar-menu').css({'display':'block'});
             $('#topbar-menu-icon i').removeClass('fa-times');
             $('#topbar-menu-icon i').addClass('fa-bars');
-            $(".logoText > img").attr("src", "./images/logo.jpg");
-            $(".logoText > img").css({"width":"100%"});
+            // $(".logoText > img").attr("src", "./images/logo.jpg");
+            // $(".logoText > img").css({"width":"100%"});
         }
         else if(wi <= 991) {
             $('#topbar-menu').css({'display':'none'});            
             $('#topbar-menu-icon i').removeClass('fa-times');
             $('#topbar-menu-icon i').addClass('fa-bars');
-            $(".logoText > img").attr("src", "./images/logo.png");
-            $(".logoText > img").css({"width":"71px", "background-color":"#fff"});
+            // $(".logoText > img").attr("src", "./images/logo.png");
+            // $(".logoText > img").css({"width":"71px", "background-color":"#fff"});
         }
 
         var hhh = $("main .parallax > div h2").outerHeight(true) + $("main .parallax > div h6").outerHeight(true) + $("main .parallax > div p").outerHeight(true) ;
