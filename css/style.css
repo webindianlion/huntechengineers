@@ -201,8 +201,11 @@ header .row img {
   left: 48%;
 }
 
+.owl-carousel.banner h2 {
+  font-size: 24px;
+}
 .owl-carousel.banner h3 {
-  font-size: 20px;
+  font-size: 18px;
 }
 .owl-carousel.banner .owl-item img.subimg {
   width: 300px;
@@ -210,15 +213,20 @@ header .row img {
   display: inline-block;
   box-shadow: 10px 6px 15px rgba(0, 0, 0, 0.16);
   border: 1px solid #ddd;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
-.owl-carousel .owl-item {
+.owl-carousel.banner .owl-item {
   background-color: #fff;
   box-shadow: 10px 6px 15px rgba(0, 0, 0, 0.16);
   border: 1px solid #ddd;
   border-radius: 5px;
   padding: 10px;
+}
+
+.owl-carousel.partners .owl-item {
+  border: 1px solid #ddd;
+  border-radius: 5px;
 }
 
 .ablue {

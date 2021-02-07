@@ -16,6 +16,7 @@
                 <div class="owl-carousel banner owl-theme">
                     <div class="col-md-12 d-flex flex-row">
                         <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h2>HUN-801 Multihead Weighing Packaging Machine</h2>
                             <h3>Chips, Dry Fruits, Namkeen, Pasta, Seeds, Soyabari etc.</h3>
                             <img src="./images/products/sub801.jpg" class="subimg" alt="...">
                         </div>
@@ -23,6 +24,7 @@
                     </div>
                     <div class="col-md-12 d-flex flex-row">
                         <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h2>HUN-802 Coller Type Auger Filler Packaging Machine</h2>
                             <h3>Spices, Mehandi, Gulal, Atta, Besan, Powder etc.</h3>
                             <img src="./images/products/sub802.jpg" class=" subimg" alt="...">
                         </div>
@@ -30,6 +32,7 @@
                     </div>
                     <div class="col-md-12 d-flex flex-row">
                         <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h2>HUN-803 Coller Type Cup Filler Packaging Machine</h2>
                             <h3>Fryums, Kurkura, Soyabari, Pulses, Namkeen etc.</h3>
                             <img src="./images/products/sub803.jpg" class=" subimg" alt="...">
                         </div>
@@ -37,6 +40,7 @@
                     </div>
                     <div class="col-md-12 d-flex flex-row">
                         <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h2>HUN-806 FFS Machine</h2>
                             <h3>Tea, Coffee, Mouth Freshner, Detergent all Granules etc.</h3>
                             <img src="./images/products/sub806.jpg" class=" subimg" alt="...">
                         </div>
@@ -121,24 +125,26 @@
         
         <!-- <section class="parallax parallax1"> </section> -->
 
-        <!-- <section class="container-flude">
+        <section class="container-flude">
             <div class="container">
                 <div class="row">
                     <h2 class="text-center">Companies Who Trust us</h2>                                
                     <div class="owl-carousel partners owl-theme">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
-                        <img src="./images/partner1.jpg" class="" alt="...">
+                        <img src="./images/clients/1clients.jpg" class="" alt="...">
+                        <img src="./images/clients/2clients.jpg" class="" alt="...">
+                        <img src="./images/clients/3clients.jpg" class="" alt="...">
+                        <img src="./images/clients/4clients.jpg" class="" alt="...">
+                        <img src="./images/clients/5clients.jpg" class="" alt="...">
+                        <img src="./images/clients/6clients.jpg" class="" alt="...">
+                        <img src="./images/clients/7clients.jpg" class="" alt="...">
+                        <img src="./images/clients/8clients.jpg" class="" alt="...">
+                        <img src="./images/clients/9clients.jpg" class="" alt="...">
+                        <img src="./images/clients/10clients.jpg" class="" alt="...">
+                        <img src="./images/clients/11clients.jpg" class="" alt="...">
                     </div>
                 </div>
             </div>                    
-        </section> -->
+        </section>
     </main>
     <?php  include './common/footer.php' ?>
     
