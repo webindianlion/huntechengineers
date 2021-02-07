@@ -201,6 +201,26 @@ header .row img {
   left: 48%;
 }
 
+.owl-carousel.banner h3 {
+  font-size: 20px;
+}
+.owl-carousel.banner .owl-item img.subimg {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  box-shadow: 10px 6px 15px rgba(0, 0, 0, 0.16);
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.owl-carousel .owl-item {
+  background-color: #fff;
+  box-shadow: 10px 6px 15px rgba(0, 0, 0, 0.16);
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+
 .ablue {
   background-color: aliceblue;
 }

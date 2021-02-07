@@ -6,19 +6,43 @@
    <?php include './common/topmenu.php' ?>
 
     
-    <header class="container">
+    <header class="container mainHeader">
         <div class="row">
-            <div class="col-md-6" data-aos="fade-right" data-aos-offset="300"  data-aos-easing="ease-in-sine">
+            <!-- <div class="col-md-6" data-aos="fade-right" data-aos-offset="300"  data-aos-easing="ease-in-sine">
                 <h3> Huntechengineers is the Manufacturer and Exporter of Highly-efficient packaging solutions for all industry area to enhance the Shelf-life of the products. </h3>
-            </div>
-            <div class="col-md-6" data-aos="fade-left">
-            <div class="owl-carousel banner owl-theme">
-                    <img src="./images/products/812.png" class="d-block w-100" alt="...">
-                    <img src="./images/products/814.png" class="d-block w-100" alt="...">                    
-                </div>
-
-                
-            </div>
+            </div> -->
+            <!-- <div class="col-md-6" data-aos="fade-left"> -->
+            <!-- </div> -->
+                <div class="owl-carousel banner owl-theme">
+                    <div class="col-md-12 d-flex flex-row">
+                        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h3>Chips, Dry Fruits, Namkeen, Pasta, Seeds, Soyabari etc.</h3>
+                            <img src="./images/products/sub801.jpg" class="subimg" alt="...">
+                        </div>
+                        <div class="col-md-6"><img src="./images/products/801.png" class="d-block w-100" alt="..."></div>
+                    </div>
+                    <div class="col-md-12 d-flex flex-row">
+                        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h3>Spices, Mehandi, Gulal, Atta, Besan, Powder etc.</h3>
+                            <img src="./images/products/sub802.jpg" class=" subimg" alt="...">
+                        </div>
+                        <div class="col-md-6"><img src="./images/products/802.png" class="d-block w-100" alt="..."></div>
+                    </div>
+                    <div class="col-md-12 d-flex flex-row">
+                        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h3>Fryums, Kurkura, Soyabari, Pulses, Namkeen etc.</h3>
+                            <img src="./images/products/sub803.jpg" class=" subimg" alt="...">
+                        </div>
+                        <div class="col-md-6"><img src="./images/products/803.png" class="d-block w-100" alt="..."></div>
+                    </div>
+                    <div class="col-md-12 d-flex flex-row">
+                        <div class="col-md-6 d-flex flex-column align-items-center justify-content-center">
+                            <h3>Tea, Coffee, Mouth Freshner, Detergent all Granules etc.</h3>
+                            <img src="./images/products/sub806.jpg" class=" subimg" alt="...">
+                        </div>
+                        <div class="col-md-6"><img src="./images/products/806.png" class="d-block w-100" alt="..."></div>
+                    </div>                    
+                </div>                            
         </div>                                        
     </header>
     <main>
