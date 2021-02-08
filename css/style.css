@@ -292,6 +292,37 @@ td:first-of-type {
   filter: invert(1) grayscale(100);
 }
 
+.hun-socl-wrapr a {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+.hun-socl-fb {
+  background: #3b5998;
+}
+
+.hun-socl-twit {
+  background: #26a6d1;
+}
+
+.hun-socl-lnkd {
+  background: #1da1f2;
+}
+
+.hun-socl-insta {
+  background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
+}
+
+.hun-socl-utub {
+  background: #c71f1e;
+}
+
 /* sidebar enquiry */
 #sliderenquiry {
   width: 315px;
