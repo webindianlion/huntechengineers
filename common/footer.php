@@ -15,7 +15,7 @@
     <li class="">  Huntechengineers </li>
     <li class="">  Plot No. 2386, Sant Nagar, Opp. Railway Road, </li>
     <li class="">  Faridabad, 121002, Haryana, India. </li>
-    <li class="">  Mobile - +91 9810272223 </li>
+    <li class="">  Mobile - +91 9911796297, 9911796296 , 9911796298  </li>
     <li class="">  Email - info@huntechengineers.com, huntechengineers@gmail.com </li>   
     <li class="hun-socl-wrapr d-flex flex-row mt-2">
       <a class="hun-socl-fb" href="https://www.facebook.com/huntechengineers/" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a>
