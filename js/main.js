@@ -144,6 +144,8 @@ function set_ele(set_element) {
       loop: true,
       margin: 10,
       center: true,
+      autoplay: true,
+      autoplayTimeout:3000,
       responsiveClass: true,
       responsive: {
         0: {
@@ -163,6 +165,8 @@ function set_ele(set_element) {
       loop: true,
       margin: 10,
       center: true,
+      autoplay: true,
+      autoplayTimeout:2000,
       responsiveClass: true,
       responsive: {
         0: {
