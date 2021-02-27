@@ -155,7 +155,7 @@ function set_ele(set_element) {
           dots: false
         },
         768: {
-          items: 3,
+          items: 6,
           nav: false
         }
       }
@@ -200,7 +200,7 @@ function set_ele(set_element) {
           dots: false
         },
         768: {
-          items: 3,
+          items: 6,
           nav: false
         }
       }
