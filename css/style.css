@@ -5,6 +5,10 @@
   word-break: break-all;
 }
 
+a:focus, button:focus {
+  outline: 0;
+}
+
 main {
   margin-top: 100px;
 }
@@ -214,6 +218,11 @@ header .row img {
   box-shadow: 10px 6px 15px rgba(0, 0, 0, 0.16);
   border: 1px solid #ddd;
   border-radius: 10px;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+  background: inherit;
+  color: inherit;
 }
 
 .owl-carousel.banner .owl-item {
@@ -426,24 +435,25 @@ ul.topbarMenu {
   list-style: none;
 }
 
-.pouches .owl-nav {
+.common-owl-nav, .partners .owl-nav, .spare .owl-nav, .pouches .owl-nav {
   position: absolute;
   width: 100%;
-  top: 120px;
   display: flex;
   justify-content: space-between;
   font-size: 50px;
   line-height: 0.5;
 }
 
+.pouches .owl-nav {
+  top: 120px;
+}
+
+.spare .owl-nav {
+  top: 120px;
+}
+
 .partners .owl-nav {
-  position: absolute;
-  width: 100%;
   top: 50px;
-  display: flex;
-  justify-content: space-between;
-  font-size: 50px;
-  line-height: 0.5;
 }
 
 .figure {
@@ -485,6 +495,12 @@ ul.topbarMenu {
     display: block;
     padding: 10px 0;
     text-align: center;
+  }
+}
+@media only screen and (max-width: 1023px) {
+  figure img {
+    height: initial;
+    max-width: 400px;
   }
 }
 @media only screen and (max-width: 768px) {
@@ -552,6 +568,24 @@ ul.topbarMenu {
   td {
     font-size: 14px;
     line-height: 1.2;
+  }
+
+  .row {
+    margin: 0;
+  }
+
+  .partners .owl-nav, .pouches .owl-nav, .spare .owl-nav {
+    width: 106%;
+    left: -3%;
+  }
+
+  figure img {
+    height: initial;
+    max-width: 300px;
+  }
+
+  figure {
+    margin-top: 10px;
   }
 }
 

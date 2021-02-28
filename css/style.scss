@@ -1,7 +1,7 @@
 * { margin: 0; padding: 0; font-family: 'Roboto', sans-serif; word-break: break-all;}
 
 // .jj{color: #f33;    background-color: #333; color: #a3a3a3;}
-
+a:focus, button:focus {outline: 0; }
 main { 
     margin-top: 100px;
 
@@ -240,6 +240,11 @@ header {
     }  
 }
 
+.owl-theme .owl-nav [class*=owl-]:hover {
+    background: inherit;
+    color: inherit;
+}
+
 .owl-carousel.banner .owl-item {
     background-color: #fff; box-shadow: 10px 6px 15px rgb(0 0 0 / 16%); border: 1px solid #ddd; border-radius: 5px; padding: 10px;
 }
@@ -379,24 +384,26 @@ ul.topbarMenu {
     list-style: none;
 }
 
-
-.pouches .owl-nav {
+.common-owl-nav {
     position: absolute;
     width: 100%;
-    top: 120px;
     display: flex;
     justify-content: space-between;
     font-size: 50px;
     line-height: 0.5;
 }
+
+.pouches .owl-nav {
+    @extend .common-owl-nav;
+    top: 120px;        
+}
+.spare .owl-nav {
+    @extend .common-owl-nav;
+    top: 120px;
+}
 .partners .owl-nav {
-    position: absolute;
-    width: 100%;
+    @extend .common-owl-nav;
     top: 50px;
-    display: flex;
-    justify-content: space-between;
-    font-size: 50px;
-    line-height: 0.5;
 }
 
 
@@ -443,6 +450,10 @@ ul.topbarMenu {
     // .img-fluid {
     //     max-width: 40% !important;
     // }
+    figure img {
+        height: initial;
+        max-width: 400px;
+    }
 }
 
 @media only screen and (max-width: 768px) { 
@@ -475,6 +486,19 @@ ul.topbarMenu {
         word-break: break-all;
     }
     main section article h6 { margin-bottom: 30px; }
-    td { font-size: 14px; line-height: 1.2; }    
+    td { font-size: 14px; line-height: 1.2; }  
+    .row { margin: 0;}  
+
+    .partners .owl-nav, .pouches .owl-nav, .spare .owl-nav {       
+        width: 106%;
+        left: -3%;
+    }
+    figure img {
+        height: initial;
+        max-width: 300px;
+    }
+    figure {     
+        margin-top: 10px;
+    }
 
 }
