@@ -87,7 +87,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                                              
                     <figure>
                         <img src="./images/products/801.png" alt="HUN 801" >
-                        <figcaption class="text-center">Fig.1 - HUN 801</figcaption>
+                        <figcaption class="text-center">HUN 801</figcaption>
                     </figure>
                 </div>
             </div>
@@ -176,7 +176,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                                    
                     <figure>
                         <img src="./images/products/802.png" alt="HUN 802" >
-                        <figcaption class="text-center">Fig.1 - HUN 802</figcaption>
+                        <figcaption class="text-center">HUN 802</figcaption>
                     </figure>
                 </div>
             </div>
@@ -254,7 +254,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                    
                     <figure>
                         <img src="./images/products/803.png" alt="HUN 803" >
-                        <figcaption class="text-center">Fig.1 - HUN 803</figcaption>
+                        <figcaption class="text-center">HUN 803</figcaption>
                     </figure>
                 </div>
             </div>
@@ -343,7 +343,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                    
                     <figure>
                         <img src="./images/products/804.png" alt="HUN 804" >
-                        <figcaption class="text-center">Fig.1 - HUN 804</figcaption>
+                        <figcaption class="text-center">HUN 804</figcaption>
                     </figure>
                 </div>
             </div>
@@ -417,7 +417,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                    
                     <figure>
                         <img src="./images/products/805.png" alt="HUN 805" >
-                        <figcaption class="text-center">Fig.1 - HUN 805</figcaption>
+                        <figcaption class="text-center">HUN 805</figcaption>
                     </figure>
                 </div>
             </div>
@@ -492,7 +492,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                    
                     <figure>
                         <img src="./images/products/806.png" alt="HUN 806" >
-                        <figcaption class="text-center">Fig.1 - HUN 806</figcaption>
+                        <figcaption class="text-center">HUN 806</figcaption>
                     </figure>
                 </div>
             </div>
@@ -566,7 +566,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                    
                     <figure>
                         <img src="./images/products/807.png" alt="HUN 807" >
-                        <figcaption class="text-center">Fig.1 - HUN 807</figcaption>
+                        <figcaption class="text-center">HUN 807</figcaption>
                     </figure>
                 </div>
             </div>
@@ -641,7 +641,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                    
                     <figure>
                         <img src="./images/products/808.png" alt="HUN 808" >
-                        <figcaption class="text-center">Fig.1 - HUN 808</figcaption>
+                        <figcaption class="text-center">HUN 808</figcaption>
                     </figure>
                 </div>
             </div>
@@ -731,7 +731,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">
                     <figure>
                         <img src="./images/products/809.png" alt="HUN 809" >
-                        <figcaption class="text-center">Fig.1 - HUN 809</figcaption>
+                        <figcaption class="text-center">HUN 809</figcaption>
                     </figure>
                 </div>
             </div>
@@ -823,7 +823,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">
                     <figure>
                         <img src="./images/products/810.png" alt="HUN 810" >
-                        <figcaption class="text-center">Fig.1 - HUN 810</figcaption>
+                        <figcaption class="text-center">HUN 810</figcaption>
                     </figure>
                 </div>
             </div>
@@ -897,7 +897,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">
                     <figure>
                         <img src="./images/products/811.png" alt="HUN 811" >
-                        <figcaption class="text-center">Fig.1 - HUN 811</figcaption>
+                        <figcaption class="text-center">HUN 811</figcaption>
                     </figure>
                 </div>
             </div>
@@ -969,7 +969,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">
                     <figure>
                         <img src="./images/products/812.png" alt="HUN 812" >
-                        <figcaption class="text-center">Fig.1 - HUN 812</figcaption>
+                        <figcaption class="text-center">HUN 812</figcaption>
                     </figure>
                 </div>
             </div>
@@ -1022,7 +1022,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">
                     <figure>
                         <img src="./images/products/813.png" alt="HUN 813" >
-                        <figcaption class="text-center">Fig.1 - HUN 813</figcaption>
+                        <figcaption class="text-center">HUN 813</figcaption>
                     </figure>
                 </div>
             </div>
@@ -1087,7 +1087,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">
                     <figure>
                         <img src="./images/products/814.png" alt="HUN 814" >
-                        <figcaption class="text-center">Fig.1 - HUN 814</figcaption>
+                        <figcaption class="text-center">HUN 814</figcaption>
                     </figure>
                 </div>
             </div>
@@ -1124,7 +1124,7 @@
                 <div class="col-md-6 d-flex flex-column align-items-center" data-aos="zoom-in">                    
                     <figure>
                         <img src="./images/products/815.png" alt="HUN 815" >
-                        <figcaption class="text-center">Fig.1 - HUN 815</figcaption>
+                        <figcaption class="text-center">HUN 815</figcaption>
                     </figure>
                 </div>
             </div>

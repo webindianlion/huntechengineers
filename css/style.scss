@@ -1,4 +1,6 @@
-* { margin: 0; padding: 0; font-family: 'Roboto', sans-serif; word-break: break-all;}
+* { margin: 0; padding: 0; font-family: 'Roboto', sans-serif; 
+    
+}
 
 // .jj{color: #f33;    background-color: #333; color: #a3a3a3;}
 a:focus, button:focus {outline: 0; }
@@ -111,7 +113,7 @@ main {
             a {
                 color: #fff;
                 text-decoration: none;
-                padding: 10px;
+                padding: 10px 5px;
             }
         } 
     }
@@ -161,6 +163,11 @@ header {
     }
     .copywrite {
         min-width: 120px; color: #fff;
+        .make_in_india {
+            background: #fff;
+            padding: 10px;
+            border-radius: 10px;
+        }
 
     }
     .quickLinks {
@@ -414,6 +421,11 @@ ul.topbarMenu {
     background-color: rgb(255 255 255);
  }
 
+ .spareParts {
+
+    img {margin: 5px; border: 1px solid #c6c6c6; }
+ }
+
 @media only screen and (min-width: 992px) {
  ul.topbarMenu {
         display: block;
@@ -447,9 +459,7 @@ ul.topbarMenu {
 }
 
 @media only screen and (max-width: 1023px) { 
-    // .img-fluid {
-    //     max-width: 40% !important;
-    // }
+
     figure img {
         height: initial;
         max-width: 400px;
@@ -457,9 +467,7 @@ ul.topbarMenu {
 }
 
 @media only screen and (max-width: 768px) { 
-    // main section .hun article p {
-    //     line-height: 1.45;
-    // }
+
     main .parallax > div { width: 100%;  max-width: 100%;}
     // main .parallax { height: 650px;}
     .footerr > div { flex-direction: column; }
@@ -483,7 +491,6 @@ ul.topbarMenu {
     }
     main section h2 {
         font-size: 30px;
-        word-break: break-all;
     }
     main section article h6 { margin-bottom: 30px; }
     td { font-size: 14px; line-height: 1.2; }  

@@ -73,38 +73,6 @@
                         <figcaption class="figure-caption  card-footer text-center"> Dry Fruits </figcaption>
                     </figure>
                 </div>
-                <!-- ------------------------------- -->
-
-                <!-- <div class="col-md-4" data-aos="fade-up">
-                    <figure class="figure imgCont card">
-                        <img src="./images/application/chocolate-candies.jpg" class="img-fluid d-block" alt="...">
-                        <figcaption class="figure-caption card-footer card-footer text-center">Chocolate Candies</figcaption>
-                    </figure>
-                </div> -->
-                
-                <!-- <div class="col-md-4" data-aos="fade-up">
-                    <figure class="figure imgCont card">
-                        <img src="./images/application/coffee.jpg" class="img-fluid d-block" alt="...">
-                        <figcaption class="figure-caption  card-footer text-center"> Coffee and Tea </figcaption>
-                    </figure>
-                </div> -->
-                
-                
-
-                <!-- <div class="col-md-4" data-aos="fade-up">
-                    <figure class="figure imgCont card">
-                        <img src="./images/application/packaging.jpg" class="img-fluid d-block" alt="...">
-                        <figcaption class="figure-caption  card-footer text-center"> Case Packaging </figcaption>
-                    </figure>
-                </div> -->                
-
-                <!-- <div class="col-md-4" data-aos="fade-up">
-                    <figure class="figure imgCont card">
-                        <img src="./images/application/toast-slices.jpg" class="img-fluid d-block" alt="...">
-                        <figcaption class="figure-caption  card-footer text-center"> Toast and Slice Cakes </figcaption>
-                    </figure>
-                </div> -->
-
             </div>
           </div>    
       </section>

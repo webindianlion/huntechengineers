@@ -28,7 +28,6 @@
                         <textarea name="umessage" placeholder="Message" id="" rows="3"></textarea>                        
                     </div>
                     <input type="submit" name="submit" value="Submit"  class="btn btn-primary">
-                    
                 </form> <br>
                 <h3 class="whatapp">
                     <a href="https://api.whatsapp.com/send?phone=919911796297text=welcome" class="text-decoration-none btn btn-primary  w-100 text-center"  role="button">                
@@ -59,7 +58,7 @@
                     </p>
                 </div>
                 <div class="col-sm-12">
-                    <h6>Satish Kumar</h6>
+                    <h6>Satish Panwar</h6>
                     <p>
                         9911796298
                         <a href="https://api.whatsapp.com/send?phone=919911796298text=welcome" class="text-decoration-none text-center ms-5"  role="button">                

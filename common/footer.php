@@ -15,7 +15,9 @@
     <li class="">  Huntechengineers </li>
     <li class="">  Plot No. 2386, Sant Nagar, Opp. Railway Road, </li>
     <li class="">  Faridabad, 121002, Haryana, India. </li>
-    <li class="">  Mobile - +91 9911796297, 9911796296 , 9911796298  </li>
+    <li class="">  Mobile - +91 9911796296 <a href="https://api.whatsapp.com/send?phone=919911796296text=welcome" class="text-decoration-none text-center"  role="button">  <img src="./images/whatsapp.svg" width="20px" > </a> , 
+                  9911796297 <a href="https://api.whatsapp.com/send?phone=919911796297text=welcome" class="text-decoration-none text-center"  role="button">  <img src="./images/whatsapp.svg" width="20px" > </a> , 
+                  9911796298 <a href="https://api.whatsapp.com/send?phone=919911796298text=welcome" class="text-decoration-none text-center"  role="button">  <img src="./images/whatsapp.svg" width="20px" > </a>  </li>
     <li class="">  Email - info@huntechengineers.com, huntechengineers@gmail.com </li>   
     <li class="hun-socl-wrapr d-flex flex-row mt-2">
       <a class="hun-socl-fb" href="https://www.facebook.com/huntechengineers/" rel="nofollow" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -26,7 +28,9 @@
     </li> 
   </ul>
 
-  <p class="copywrite"> &copy; Huntechengineers </p>
+  <p class="copywrite"> &copy; Huntechengineers <br>
+  <img src="./images/make_in_india.jpg" class="make_in_india" alt="Make In India" >
+  </p>
   </div>
 </div>
 

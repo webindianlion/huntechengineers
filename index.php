@@ -145,89 +145,29 @@
         <section class="container-flude pouch">
             <div class="container-lg">
                 <div class="row">
-                    <h2 class="text-center mb-5">We Also Deal In Spare Parts</h2>                        
+                    <h2 class="text-center mb-5">We Also Deals In Spare Parts</h2>                        
                     <div class="owl-carousel owl-theme spare">
                         <figure class="figure imgCont">
-                            <img src="./images/spare/ASDA-A2_L.jpg" class="img-fluid d-block" >
+                            <img src="./images/spare/1.jpg" class="img-fluid d-block" >
                         </figure>
                         <figure class="figure imgCont">
-                            <img src="./images/spare/ASDA-B2_L.jpg" class="img-fluid d-block" >
+                            <img src="./images/spare/2.jpg" class="img-fluid d-block" >
                         </figure>
                         <figure class="figure imgCont">
-                            <img src="./images/spare/autonocis_pid.jpg" class="img-fluid d-block" >
+                            <img src="./images/spare/3.jpg" class="img-fluid d-block" >
                         </figure>
                         <figure class="figure imgCont">
-                            <img src="./images/spare/color-mark-sensor.jpg" class="img-fluid d-block" >
+                            <img src="./images/spare/4.jpg" class="img-fluid d-block" >
                         </figure>
                         <figure class="figure imgCont">
-                            <img src="./images/spare/delta-smps4.5A.jpg" class="img-fluid d-block" >
+                            <img src="./images/spare/5.jpg" class="img-fluid d-block" >
                         </figure>
                         <figure class="figure imgCont">
-                            <img src="./images/spare/DOP-B03E211_L.jpg" class="img-fluid d-block" >
+                            <img src="./images/spare/6.jpg" class="img-fluid d-block" >
                         </figure>  
                         <figure class="figure imgCont align-middle">
-                            <img src="./images/spare/DOP-B07S411_M.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont align-middle">
-                            <img src="./images/spare/DVP-ES2_L.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont align-middle">
-                            <img src="./images/spare/DVP-EX_L.jpg" class="img-fluid d-block" >
-                        </figure>  
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/DVP-SX_L.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/DVP-SX2_L.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/emergency-stop-button-for-gas-solenoid-valves-p22052-9547_medium.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/nmrv-worm-reducers-manual-worm-gear-box.jpg" class="img-fluid d-block" >
-                        </figure>          
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/Polish_20191222_182420000.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/rubber-pull-belts-500x500-112.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/sealer-500x500.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/sealing-jaws-500x500.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/spare1.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/spare2.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/spare3.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/spare4.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/spare5.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/vertical-form-fill-sealing-jaw.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/VFD-A_L.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/VFD-EL_L.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/VFD-L_L.jpg" class="img-fluid d-block" >
-                        </figure>
-                        <figure class="figure imgCont">
-                            <img src="./images/spare/VFD-M_L.jpg" class="img-fluid d-block" >
-                        </figure>                        
+                            <img src="./images/spare/7.jpg" class="img-fluid d-block" >
+                        </figure>                                                
                     </div>
                 </div>
             </div>            

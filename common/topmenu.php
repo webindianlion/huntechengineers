@@ -11,6 +11,7 @@
         <li> <a href="about.php"> About Us </a> </li>
         <li> <a href="products.php"> Products </a> </li> 
         <li> <a href="application.php"> Application </a> </li>             
+        <li> <a href="spare.php"> Spare Parts </a> </li>             
         <li class="contactUs"> <a href="contact.php"> Contact Us </a> </li>
     </ul>   
 </nav>
