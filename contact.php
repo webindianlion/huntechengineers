@@ -27,6 +27,7 @@
                     <div class="mb-3">
                         <textarea name="umessage" placeholder="Message" id="" rows="3"></textarea>                        
                     </div>
+                    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" /><br >
                     <input type="submit" name="submit" value="Submit"  class="btn btn-primary">
                     
                 </form> <br>
@@ -87,5 +88,16 @@
     </section>
     </main>
     <?php include './common/footer.php' ?>
+
+    <script src='https://www.google.com/recaptcha/api.js?render=6LeCtG4aAAAAAARSnOrurvP298Th4W7EusWdaD-p'></script>
+    <script>
+      grecaptcha.ready(function() {
+      grecaptcha.execute('6LeCtG4aAAAAAARSnOrurvP298Th4W7EusWdaD-p', {action: 'submit'})
+      .then(function(token) {
+          //console.log(token);
+          document.getElementById('g-recaptcha-response').value=token;
+      });
+      });
+  </script>
 </body>
 </html>
